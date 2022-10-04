@@ -1,6 +1,6 @@
 # Desafio do Stage 02 - Corrigindo bugs (01)
 
-![preview](./preview_1.png)
+![preview](./preview_01.png)
 
 > Trilha Explorer 06
 
