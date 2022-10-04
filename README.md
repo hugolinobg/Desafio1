@@ -1,6 +1,6 @@
 # Desafio do Stage 02 - Corrigindo bugs (01)
 
-![preview](./.github/hugolinobg/Desafio1/preview_1.png)
+![preview](./.github/preview_1.png)
 
 > Trilha Explorer 06
 
