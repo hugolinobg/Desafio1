@@ -6,7 +6,7 @@
 
 Projeto prático da Trilha Explorer da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://hugolinobg.github.io/Desafio-Semantica-e-acessibilidade/)
+[🔗 Clique aqui para acessar](https://hugolinobg.github.io/Desafio1/)
 
 ## 🛠️ Tecnologias
 
